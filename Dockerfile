@@ -1,3 +1,3 @@
 FROM slave/tomcat
 MAINTAINER tristan.t.jiang@newegg.com
-COPY ./*.war /opt/tomcat/webapp
+COPY /target/app.war /opt/tomcat/webapp
