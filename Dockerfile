@@ -1,3 +1,3 @@
 FROM tomcat
 MAINTAINER tristan.tjiang@newegg.com
-COPY target/  /work/
+COPY target/  /opt/tomcat/webapps/
