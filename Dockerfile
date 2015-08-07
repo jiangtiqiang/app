@@ -1,4 +1,3 @@
-FROM tomcat
+FROM slave/tomcat
 MAINTAINER tristan.t.jiang@newegg.com
-COPY /target/app.war /space/tomcat7/webapp
-EXPOSE 8085
+COPY /target/app.war /opt/tomcat/webapp
