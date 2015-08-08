@@ -1,8 +1,6 @@
 <html>
 <body>
-	jsp welcom
-	
-<h2>Hello World!---------------v.0</h2>
-<h2>Hello World!---------------v.1</h2>
+<h2>Hello World---------------  V.0</h2>
+<h2>Hello World---------------  V.0.1</h2>
 </body>
 </html>
